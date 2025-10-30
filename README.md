@@ -56,4 +56,5 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 1. 🎯 creacion del repositorio de git: ✅ Completado.
 2. 🎯 configuracion de servidor de desarrollo al puerto 3000: ✅ Completado.
 3. 🎯 instalacion y configuracion de Eslint y Prettier: ✅ Completado.
-4. 🎯 se configuro ademas del Eslint cosas de typescript: ✅ Completado.
+4. 🎯 se configuro ademas del eslint.config, el tsconfig.: ✅ Completado.
+5. 🎯 configurar husky y el EslintStagety convencional commits:
