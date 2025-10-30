@@ -32,9 +32,9 @@ To learn more about the folder structure of an Astro project, refer to [our guid
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `pnpm install`         | Installs dependencies                            |
 | `pnpm dev`             | Starts local dev server at `localhost:4321`      |
 | `pnpm build`           | Build your production site to `./dist/`          |
 | `pnpm preview`         | Preview your build locally, before deploying     |
@@ -45,7 +45,7 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Español: 
+## Español:
 
 ## Hola a todos soy Danlois Tovar y este es la creacion oficial de mi portafolio en su version, la cual se va a realizar con el framework astro y con algunos componentes en React js. en este archivo, documentare la bitacora de los pasos realizados, durante la creacion del portafolio.
 
@@ -53,5 +53,7 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ## Configuracion del entorno de desarrollo del proyecto protafolio-v3:
 
-1. creacion del repositorio de git:
-
+1. 🎯 creacion del repositorio de git: ✅ Completado.
+2. 🎯 configuracion de servidor de desarrollo al puerto 3000: ✅ Completado.
+3. 🎯 instalacion y configuracion de Eslint y Prettier: ✅ Completado.
+4. 🎯 se configuro ademas del Eslint cosas de typescript: ✅ Completado.
