@@ -57,4 +57,5 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 2. 🎯 configuracion de servidor de desarrollo al puerto 3000: ✅ Completado.
 3. 🎯 instalacion y configuracion de Eslint y Prettier: ✅ Completado.
 4. 🎯 se configuro ademas del eslint.config, el tsconfig.: ✅ Completado.
-5. 🎯 configurar husky y el EslintStagety convencional commits:
+5. 🎯 configurar husky y el eslint-staget y convencional commits: commitlint.config: ✅ Completado.
+6. 🎯 instalar y configurar conventional-changelog-cli: ✅ Completado
