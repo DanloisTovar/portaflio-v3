@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pnpm test
+=======
+pnpm lint
+>>>>>>> 2614c3e (chore(config): 🎉 agrega nightwatch y carpetas)
 pnpm lint-staged

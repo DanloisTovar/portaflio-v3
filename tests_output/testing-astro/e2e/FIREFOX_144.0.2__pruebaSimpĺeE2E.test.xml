@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="Homepage Astro tests de prueba simple" id="testing-astro.e2e.pruebaSimpĺeE2E.test"
+    errors="0" failures="0" hostname="" package="e2e" skipped="0"
+    tests="1" time="1.175" timestamp="">
+  
+    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="1.173" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

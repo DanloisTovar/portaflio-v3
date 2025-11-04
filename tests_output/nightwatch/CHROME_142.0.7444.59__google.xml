@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="nightwatch.google" id="nightwatch.google"
+    errors="0" failures="1" hostname="" package="google" skipped="0"
+    tests="2" time="10.57" timestamp="">
+  
+    <testcase name="Google title test" classname="nightwatch.google" time="0.7370" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Google search test" classname="nightwatch.google" time="9.836" assertions="1">  <failure message="Timed out while waiting for element &lt;#main&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5058ms)">    at Object.Google search test (/home/danlois/Development/Proyectos/En Desarrollo/portaflio-v3/nightwatch/google.ts:16:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -59,4 +59,12 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 4. 🎯 se configuro ademas del eslint.config, el tsconfig.: ✅ Completado.
 5. 🎯 configurar husky y el eslint-staget y convencional commits: commitlint.config: ✅ Completado.
 6. 🎯 instalar y configurar conventional-changelog-cli: ✅ Completado
+<<<<<<< HEAD
 7. 🎯 configurar Vitetest:
+=======
+7. 🎯 configurar Vitetest:✅ Completado
+8. 🎯 configurar nightwatch:✅ Completado
+9. 🎯 instalar y configurar style-linter:
+10. 🎯 instalar y configurar docker:
+11. 🎯 instalar y configurar react (cuando sea necesario)
+>>>>>>> 2614c3e (chore(config): 🎉 agrega nightwatch y carpetas)

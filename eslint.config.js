@@ -60,4 +60,52 @@ export default defineConfig([
 			// Puedes añadir tus propias reglas Astro
 		},
 	},
+
+	// === 5️⃣ E2E Tests con Nightwatch
+	{
+		files: [
+			'testing/testing-astro/e2e/**/*.ts',
+			'testing/testing-astro/e2e/**/*.js',
+			'testing/testing-docker/e2e/**/*.ts',
+			'testing/testing-docker/e2e/**/*.js',
+			'nightwatch/**/*.ts',
+			'nightwatch/**/*.js',
+		],
+		/* env: {
+			mocha: true,
+			node: true,
+		}, */
+
+		languageOptions: {
+			globals: {
+				// mocha / vitest style
+				describe: 'readonly',
+				it: 'readonly',
+				test: 'readonly',
+				expect: 'readonly',
+				vi: 'readonly',
+				before: 'readonly',
+				after: 'readonly',
+				beforeEach: 'readonly',
+				afterEach: 'readonly',
+				// nightwatch global
+				browser: 'readonly',
+				// node globals used in tests/config
+				process: 'readonly',
+				__dirname: 'readonly',
+				require: 'readonly',
+				module: 'readonly',
+			},
+		},
+
+		// Reglas específicas para tests / nightwatch
+		rules: {
+			'no-unused-vars': 'off',
+			'@typescript-eslint/no-unused-vars': 'off',
+			'prefer-arrow-callback': 'off',
+			'object-shorthand': 'off',
+			'dot-notation': 'off',
+			'no-undef': 'off',
+		},
+	},
 ]);
