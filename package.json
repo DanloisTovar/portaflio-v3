@@ -11,6 +11,10 @@
 		"lint:fix": "eslint \"src/**/*.{js,jsx,ts,tsx,astro}\" --fix",
 		"lint:ts": "tsc --noEmit",
 		"format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,astro,json,md}\"",
+		"test": "vitest",
+		"test:watch": "vitest --watch",
+		"test:ui": "vitest --ui",
+		"coverage": "vitest run --coverage",
 		"lint-staged-run": "pnpm lint-staged",
 		"prepare": "husky",
 		"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0"
@@ -35,6 +39,7 @@
 		"lint-staged": "^16.2.6",
 		"prettier": "^3.6.2",
 		"prettier-plugin-astro": "^0.14.1",
-		"typescript": "^5.9.3"
+		"typescript": "^5.9.3",
+		"vitest": "^4.0.7"
 	}
 }

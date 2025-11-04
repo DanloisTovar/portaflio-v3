@@ -59,3 +59,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 4. 🎯 se configuro ademas del eslint.config, el tsconfig.: ✅ Completado.
 5. 🎯 configurar husky y el eslint-staget y convencional commits: commitlint.config: ✅ Completado.
 6. 🎯 instalar y configurar conventional-changelog-cli: ✅ Completado
+7. 🎯 configurar Vitetest:
