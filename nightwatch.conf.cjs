@@ -17,6 +17,9 @@ module.exports = {
 	// if this is not specified, the test source must be passed as the second argument to the test runner.
 	src_folders: ['testing' /* 'nightwatch' */],
 
+	// Exclude Vitest unit test files from Nightwatch
+	exclude: ['testing/**/test/**'],
+
 	// See https://nightwatchjs.org/guide/concepts/page-object-model.html
 	page_objects_path: [],
 

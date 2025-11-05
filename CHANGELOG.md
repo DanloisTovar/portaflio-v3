@@ -1,5 +1,6 @@
-## <small>0.0.1 (2025-10-31)</small>
+## <small>0.0.1 (2025-11-05)</small>
 
+* chore(config): 🎉 agrega nightwatch y carpetas ([2614c3e](https://github.com/DanloisTovar/portaflio-v3/commit/2614c3e))
 * 🎉 chore (config): add husky, slint-staget, convensional-commits y se actualiza la bitcacora ([fb0d13f](https://github.com/DanloisTovar/portaflio-v3/commit/fb0d13f))
 * 🎉 chore (config): update husky pre-push ([7c842af](https://github.com/DanloisTovar/portaflio-v3/commit/7c842af))
 * 🎉 chore: Portafolio Astro con estructura base ([647c9c2](https://github.com/DanloisTovar/portaflio-v3/commit/647c9c2))
