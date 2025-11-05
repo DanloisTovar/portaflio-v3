@@ -15,8 +15,6 @@
 		"test:watch": "vitest --watch",
 		"test:ui": "vitest --ui",
 		"coverage": "vitest run --coverage",
-<<<<<<< HEAD
-=======
 		"test:e2e": "nightwatch --config ./nightwatch.conf.cjs --env chrome,firefox",
 		"test:e2e:chrome": "nightwatch --config ./nightwatch.conf.cjs --env chrome",
 		"test:e2e:firefox": "nightwatch --config ./nightwatch.conf.cjs --env firefox",
@@ -24,7 +22,6 @@
 		"test:e2e:docker": "nightwatch --config ./nightwatch.conf.cjs --env docker",
 		"test:e2e:all": "nightwatch --config ./nightwatch.conf.cjs --env chrome,firefox,docker",
 		"commitlint": "commitlint --config ./commitlint.config.js --edit \"$1\"",
->>>>>>> 2614c3e (chore(config): 🎉 agrega nightwatch y carpetas)
 		"lint-staged-run": "pnpm lint-staged",
 		"prepare": "husky",
 		"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0"
@@ -54,10 +51,6 @@
 		"nightwatch": "^3.12.3",
 		"prettier": "^3.6.2",
 		"prettier-plugin-astro": "^0.14.1",
-<<<<<<< HEAD
-=======
-		"ts-node": "^10.9.2",
->>>>>>> 2614c3e (chore(config): 🎉 agrega nightwatch y carpetas)
 		"typescript": "^5.9.3",
 		"vitest": "^4.0.7"
 	}
