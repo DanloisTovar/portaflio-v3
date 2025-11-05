@@ -5,9 +5,15 @@
 
   <testsuite name="Homepage Astro tests de prueba simple" id="testing-astro.e2e.pruebaSimpĺeE2E.test"
     errors="0" failures="0" hostname="" package="e2e" skipped="0"
+<<<<<<< HEAD
     tests="1" time="1.259" timestamp="">
   
     <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="1.257" assertions="2">
+=======
+    tests="1" time="1.761" timestamp="">
+  
+    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="1.759" assertions="2">
+>>>>>>> 290716e (chore(config): 🎉 cambiar puerto a 3000)
 
     
 

@@ -5,9 +5,15 @@
 
   <testsuite name="duckduckgo example" id="testing-docker.e2e.testE2E.test"
     errors="0" failures="0" hostname="" package="e2e" skipped="0"
+<<<<<<< HEAD
     tests="1" time="3.182" timestamp="">
   
     <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="3.180" assertions="3">
+=======
+    tests="1" time="3.321" timestamp="">
+  
+    <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="3.318" assertions="3">
+>>>>>>> 290716e (chore(config): 🎉 cambiar puerto a 3000)
 
     
 

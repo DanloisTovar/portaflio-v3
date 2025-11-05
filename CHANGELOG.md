@@ -1,5 +1,9 @@
 ## <small>0.0.1 (2025-11-05)</small>
 
+<<<<<<< HEAD
+=======
+* docs(readme): 🎉 actualizar README con instrucciones y checklist ([5ebee23](https://github.com/DanloisTovar/portaflio-v3/commit/5ebee23))
+>>>>>>> 290716e (chore(config): 🎉 cambiar puerto a 3000)
 * chore(config): 🎉 agrega nightwatch y carpetas ([62d877d](https://github.com/DanloisTovar/portaflio-v3/commit/62d877d))
 * chore(nightwatch): 🔧 exclude Vitest test files from Nightwatch ([b82e583](https://github.com/DanloisTovar/portaflio-v3/commit/b82e583))
 * chore(package): 🎉 actualizar package.json con scripts E2E y deps ([4bbb2e5](https://github.com/DanloisTovar/portaflio-v3/commit/4bbb2e5))
