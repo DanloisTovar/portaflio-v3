@@ -3,6 +3,7 @@
 * chore(config): 🎉 agrega nightwatch y carpetas ([62d877d](https://github.com/DanloisTovar/portaflio-v3/commit/62d877d))
 * chore(config): 🎉 cambiar puerto a 3000 ([c34ae6f](https://github.com/DanloisTovar/portaflio-v3/commit/c34ae6f))
 * chore(config): 🎉 diversos cambios tras rebase ([600d42c](https://github.com/DanloisTovar/portaflio-v3/commit/600d42c))
+* chore(git): 🎉 actualizar .gitignore ([40ff28d](https://github.com/DanloisTovar/portaflio-v3/commit/40ff28d))
 * chore(nightwatch): 🔧 exclude Vitest test files from Nightwatch ([b82e583](https://github.com/DanloisTovar/portaflio-v3/commit/b82e583))
 * chore(package): 🎉 actualizar package.json con scripts E2E y deps ([4bbb2e5](https://github.com/DanloisTovar/portaflio-v3/commit/4bbb2e5))
 * chore(package): 🎉 actualizar package.json con scripts E2E y deps ([042b4bb](https://github.com/DanloisTovar/portaflio-v3/commit/042b4bb))

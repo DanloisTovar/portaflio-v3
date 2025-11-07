@@ -1,4 +1,4 @@
-import { NightwatchAPI, NightwatchTests } from 'nightwatch';
+import type { NightwatchAPI, NightwatchTests } from 'nightwatch';
 
 const home: NightwatchTests = {
 	'Google title test': () => {

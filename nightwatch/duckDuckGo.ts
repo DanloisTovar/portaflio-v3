@@ -1,4 +1,4 @@
-import { ExtendDescribeThis } from 'nightwatch';
+import type { ExtendDescribeThis } from 'nightwatch';
 
 interface CustomThis {
 	duckDuckGoUrl: string;

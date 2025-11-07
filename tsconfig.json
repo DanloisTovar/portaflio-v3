@@ -8,8 +8,17 @@
 		"skipLibCheck": true,
 		"jsx": "preserve",
 		"ignoreDeprecations": "",
-		"types": ["astro/client"]
+		"types": ["astro/client"],
+		// evita emitir .js desde tsc (útil en monorepos y para linters)
+		"noEmit": true,
+		// permitir archivos .js en el proyecto si fueran necesarios
+		"allowJs": true,
+		// permitir import de JSON
+		"resolveJsonModule": true,
+		// tratar la sintaxis de módulos exactamente como ESM (coherente con "type": "module")
+		"verbatimModuleSyntax": true
 	},
+
 	"extends": "astro/tsconfigs/strict",
 	"include": ["src/**/*", ".astro/types.d.ts", "**/*"],
 	"exclude": ["node_modules", "dist", ".husky", "./nightwatch/tsconfig.json"]
