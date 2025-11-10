@@ -5,9 +5,9 @@
 
   <testsuite name="duckduckgo example" id="testing-docker.e2e.testE2E.test"
     errors="0" failures="0" hostname="" package="e2e" skipped="0"
-    tests="1" time="3.279" timestamp="">
+    tests="1" time="6.065" timestamp="">
   
-    <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="3.276" assertions="3">
+    <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="6.065" assertions="3">
 
     
 
