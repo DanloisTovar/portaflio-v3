@@ -5,9 +5,9 @@
 
   <testsuite name="Homepage Astro tests de prueba simple" id="testing-astro.e2e.pruebaSimpĺeE2E.test"
     errors="0" failures="0" hostname="" package="e2e" skipped="0"
-    tests="1" time="0.3810" timestamp="">
+    tests="1" time="0.2970" timestamp="">
   
-    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="0.3780" assertions="2">
+    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="0.2910" assertions="2">
 
     
 

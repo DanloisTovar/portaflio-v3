@@ -1,6 +1,7 @@
-## <small>0.0.1 (2025-11-06)</small>
+## <small>0.0.1 (2025-11-07)</small>
 
 * chore(config): 🎉 agrega nightwatch y carpetas ([62d877d](https://github.com/DanloisTovar/portaflio-v3/commit/62d877d))
+* chore(config): 🎉 ajustes finales en Dockerfile, linters y testing ([d05b70d](https://github.com/DanloisTovar/portaflio-v3/commit/d05b70d))
 * chore(config): 🎉 cambiar puerto a 3000 ([c34ae6f](https://github.com/DanloisTovar/portaflio-v3/commit/c34ae6f))
 * chore(config): 🎉 diversos cambios tras rebase ([600d42c](https://github.com/DanloisTovar/portaflio-v3/commit/600d42c))
 * chore(git): 🎉 actualizar .gitignore ([40ff28d](https://github.com/DanloisTovar/portaflio-v3/commit/40ff28d))

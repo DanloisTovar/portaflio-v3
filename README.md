@@ -62,5 +62,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 7. 🎯 configurar Vitetest:✅ Completado
 8. 🎯 configurar nightwatch:✅ Completado
 9. 🎯 instalar y configurar style-linter:✅ Completado
-10. 🎯 instalar y configurar docker:
-11. 🎯 instalar y configurar react (cuando sea necesario)
+10. 🎯 instalar y configurar docker: ✅ Completado
+11. 🎯 instalar y configurar tailwind:
+12. 🎯 instalar y configurar react (cuando sea necesario)

@@ -21,6 +21,8 @@ export default {
 		},
 	],
 	rules: {
+		// permitir @import 'x' en lugar de url('x') para compatibilidad con Tailwind
+		'import-notation': 'string',
 		// regla genérica para no producir falsos positivos en CSS
 		'at-rule-no-unknown': null,
 	},
