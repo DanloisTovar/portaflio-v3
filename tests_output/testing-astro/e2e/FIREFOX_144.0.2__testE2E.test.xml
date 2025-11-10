@@ -5,9 +5,9 @@
 
   <testsuite name="duckduckgo example" id="testing-astro.e2e.testE2E.test"
     errors="0" failures="0" hostname="" package="e2e" skipped="0"
-    tests="1" time="5.402" timestamp="">
+    tests="1" time="4.171" timestamp="">
   
-    <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="5.400" assertions="3">
+    <testcase name="Search Nightwatch.js and check results" classname="duckduckgo example" time="4.169" assertions="3">
 
     
 

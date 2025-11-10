@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
-            failures="1"
+            failures="0"
             tests="1">
 
   <testsuite name="Homepage Astro tests de prueba simple" id="testing-astro.e2e.pruebaSimpĺeE2E.test"
-    errors="0" failures="1" hostname="" package="e2e" skipped="0"
-    tests="1" time="5.343" timestamp="">
+    errors="0" failures="0" hostname="" package="e2e" skipped="0"
+    tests="1" time="1.127" timestamp="">
   
-    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="5.342" assertions="2">
+    <testcase name="Homepage loads and has #container" classname="Homepage Astro tests de prueba simple" time="1.126" assertions="2">
 
-      <failure message="Testing if element &lt;#container&gt; is visible in 5000ms - expected &#34;is visible&#34; but got: &#34;element could not be located&#34; (5038ms)">    at DescribeInstance.&lt;anonymous&gt; (/home/danlois/Development/Proyectos/En Desarrollo/portaflio-v3/testing/testing-astro/e2e/pruebaSimpĺeE2E.test.ts:9:12)</failure>
+    
 
     
     </testcase>
